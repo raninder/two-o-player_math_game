@@ -11,5 +11,4 @@ class Question
 		sum = @number1 + @number2
 	end
 end
-#  q1 = Question.new
-#  q1.put_question
+

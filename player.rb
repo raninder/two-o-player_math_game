@@ -15,12 +15,4 @@ class Players
 		puts "#{score}/3"
 	end
 
-
 end
-
-# p1 = Players.new("Player1","P1")
-# p2  =Players.new("Player2")
-# p p1
-# p p2
-		
-# p1.win_score
